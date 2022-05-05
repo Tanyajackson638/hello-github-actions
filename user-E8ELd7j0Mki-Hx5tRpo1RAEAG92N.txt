@@ -1,0 +1,17 @@
+{
+  "Id": "E8ELd7j0Mki-Hx5tRpo1RAEAG92N",
+  "ExternalId": "6ccf539b2553cde2",
+  "DisplayName": "Tanya Jackson",
+  "InternalDisplayName": null,
+  "UserPrincipalName": null,
+  "PrincipalType": "User",
+  "UserDetailsId": "E8ELd7j0Mki-Hx5tRpo1RAEAG92N",
+  "ICalendarPublishEnabled": false,
+  "OptedInNotifications": "None",
+  "OptedOutNotifications": "None",
+  "UserPolicies": "None",
+  "FavoritePlans": [],
+  "RecentPlans": [],
+  "UserData": [],
+  "AssignedTaskOrdering": []
+}
